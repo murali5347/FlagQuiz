@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     public static final String CHOICES = "pre_numberOfChoices";
     public  static  final String REGIONS = "pref_regionsToInclude";
-    public  static  final String example= "example";
+    public  static  final String example= "nextChange";
     private boolean phoneDevice = true;
     private boolean preferanceChanged =true;
 
